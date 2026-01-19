@@ -14,6 +14,6 @@
             "email": "101217538+Behnamfe76@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "dev",
     "require": {}
 }
