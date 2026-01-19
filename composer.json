@@ -1,0 +1,19 @@
+{
+    "name": "fereydooni/laravel-core",
+    "description": "the core components and classes, required for all laravel projects",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fereydooni\\LaravelCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Behnam Fereydooni",
+            "email": "101217538+Behnamfe76@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
